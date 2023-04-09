@@ -4,8 +4,6 @@ I'm Billy, a Bioinformatics Scientist at @PacificBiosciences. I primarily focus 
 
 Find me on twitter 🐦 until it implodes [@nothingclever](https://twitter.com/nothingclever), or on mastodon 🐘 [@williamrowell@genomics.social](https://genomic.social/@williamrowell).  Sometimes I answer questions on ⭐ [Biostar](https://www.biostars.org/u/49414/). I've been lucky enough to collaborate on some pretty cool projects, and you can find the publications on [ORCID](https://orcid.org/0000-0002-7422-1194) or [Google Scholar](https://scholar.google.com/citations?user=S8ixTQIAAAAJ).
 
-[proven.lol/acf600](https://proven.lol/acf600)
-
 <!--
 **williamrowell/williamrowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
